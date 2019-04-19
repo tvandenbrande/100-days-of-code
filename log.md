@@ -23,3 +23,11 @@
 **Thoughts:** Found peace to just do the bare minimum for these basic projects and keep the projects in stock on my codepen account and plan to come back after a few days and quick sketches on paper to tidy them up and make them pretty. The project doesn't offer any content. This 100 days of coding is not about writing good copy, it is about writing good code. 
 
 **Link to work:** [Excercises on Codepen](https://codepen.io/tvandenbrande/)
+
+### Day 4: April 19, 2019
+
+**Today's Progress**: Basic javascript projects: making algorithms 
+
+**Thoughts:** This was more on thinking about algorithms then on thinking about JS. My programming background got me through, didn't encounter any specific issues with arrow-functions, binding, ... For the next parts I will have to look into some details about ES6. 
+
+**Link to work:** [FreeCodeCamp](https://learn.freecodecamp.org/)

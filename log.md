@@ -52,6 +52,6 @@
 
 **Today's Progress**: finished algorithms and started frameworks
 
-**Thoughts:** Keep It Simple, Stupid! Finished the last algorithm by rethinking the flow. Think before code learned the hard way. Lost half of my 1h of coding yesterday to make functions to check and refactor things that aren't necessary. A good night sleep and one line of code later, the problem is solved. Let's dive into front end frameworks. 
+**Thoughts:** Keep It Simple, Stupid! Finished the last algorithm by rethinking the flow. Think before code learned the hard way. Lost half of my 1h of coding yesterday to make functions to check and refactor things that aren't necessary. A good night sleep and one line of code later, the problem is solved. Let's dive into front end frameworks, first project: a random quote machine with a quote api and react. 
 
-**Link to work:** [FreeCodeCamp](https://learn.freecodecamp.org/)
+**Link to work:** [Random Quote Machine](https://codepen.io/tvandenbrande/pen/oOMjZX)

@@ -31,3 +31,19 @@
 **Thoughts:** This was more on thinking about algorithms then on thinking about JS. My programming background got me through, didn't encounter any specific issues with arrow-functions, binding, ... For the next parts I will have to look into some details about ES6. 
 
 **Link to work:** [FreeCodeCamp](https://learn.freecodecamp.org/)
+
+### Day 5: April 20, 2019
+
+**Today's Progress**: algorithms part II
+
+**Thoughts:** Focused hour on making algorithms to solve projects on free code camp. Even so focused that I forgot to adjust my log. On the plus side: programming is also possible in a hammock.  
+
+**Link to work:** [FreeCodeCamp](https://learn.freecodecamp.org/)
+
+### Day 6: April 21, 2019
+
+**Today's Progress**: algorithms part III
+
+**Thoughts:** Not an Easter Egg Hunt, but a Bug Hunt today. my latest project wouldn't return the desired results due to some issues with floats, classical numerical issue: 0.0004 - 4 x 0.0001 is not zero. 
+
+**Link to work:** [FreeCodeCamp](https://learn.freecodecamp.org/)

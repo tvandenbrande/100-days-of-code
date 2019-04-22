@@ -47,3 +47,11 @@
 **Thoughts:** Not an Easter Egg Hunt, but a Bug Hunt today. my latest project wouldn't return the desired results due to some issues with floats, classical numerical issue: 0.0004 - 4 x 0.0001 is not zero. 
 
 **Link to work:** [FreeCodeCamp](https://learn.freecodecamp.org/)
+
+### Day 7: April 21, 2019
+
+**Today's Progress**: finished algorithms and started frameworks
+
+**Thoughts:** Keep It Simple, Stupid! Finished the last algorithm by rethinking the flow. Think before code learned the hard way. Lost half of my 1h of coding yesterday to make functions to check and refactor things that aren't necessary. A good night sleep and one line of code later, the problem is solved. Let's dive into front end frameworks. 
+
+**Link to work:** [FreeCodeCamp](https://learn.freecodecamp.org/)

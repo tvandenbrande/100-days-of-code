@@ -48,7 +48,7 @@
 
 **Link to work:** [FreeCodeCamp](https://learn.freecodecamp.org/)
 
-### Day 7: April 21, 2019
+### Day 7: April 22, 2019
 
 **Today's Progress**: finished algorithms and started frameworks
 

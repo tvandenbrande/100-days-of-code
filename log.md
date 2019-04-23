@@ -55,3 +55,11 @@
 **Thoughts:** Keep It Simple, Stupid! Finished the last algorithm by rethinking the flow. Think before code learned the hard way. Lost half of my 1h of coding yesterday to make functions to check and refactor things that aren't necessary. A good night sleep and one line of code later, the problem is solved. Let's dive into front end frameworks, first project: a random quote machine with a quote api and react. 
 
 **Link to work:** [Random Quote Machine](https://codepen.io/tvandenbrande/pen/oOMjZX)
+
+### Day 8: April 23, 2019
+
+**Today's Progress**: getting my mind around React, State and API calls
+
+**Thoughts:** Worked a bit more on the random quote machine, chose React as technology (a bit overkill) because I wanted to learn it. An hour full of messing around because my mind didn't grasp state at first. 
+
+**Link to work:** [Random Quote Machine](https://codepen.io/tvandenbrande/pen/oOMjZX)

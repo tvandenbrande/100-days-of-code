@@ -80,3 +80,11 @@
 
 **Link to work:** [Random Quote Machine](https://codepen.io/tvandenbrande/pen/oOMjZX)
 
+### Day 11: April 26, 2019
+
+**Today's Progress**: finished the Random Quote machine
+
+**Thoughts:** debugged the api calls and error handling. With that out of the way I included some lifecycle functions to the react component to increase it's functionality. Looks still not 100%, functionality though: great!
+
+**Link to work:** [Random Quote Machine](https://codepen.io/tvandenbrande/pen/oOMjZX)
+

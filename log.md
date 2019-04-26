@@ -63,3 +63,20 @@
 **Thoughts:** Worked a bit more on the random quote machine, chose React as technology (a bit overkill) because I wanted to learn it. An hour full of messing around because my mind didn't grasp state at first. 
 
 **Link to work:** [Random Quote Machine](https://codepen.io/tvandenbrande/pen/oOMjZX)
+
+### Day 9: April 24, 2019
+
+**Today's Progress**: updating state
+
+**Thoughts:** found a way to update state through a click button action. API calls won't work yet. Am I moving to fast?
+
+**Link to work:** [Random Quote Machine](https://codepen.io/tvandenbrande/pen/oOMjZX)
+
+### Day 10: April 24, 2019
+
+**Today's Progress**: hour lost due to messing with api calls
+
+**Thoughts:** just copying and adjusting code found online. Time to go back to basics I guess?
+
+**Link to work:** [Random Quote Machine](https://codepen.io/tvandenbrande/pen/oOMjZX)
+

@@ -72,7 +72,7 @@
 
 **Link to work:** [Random Quote Machine](https://codepen.io/tvandenbrande/pen/oOMjZX)
 
-### Day 10: April 24, 2019
+### Day 10: April 25, 2019
 
 **Today's Progress**: hour lost due to messing with api calls
 

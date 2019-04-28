@@ -88,3 +88,21 @@
 
 **Link to work:** [Random Quote Machine](https://codepen.io/tvandenbrande/pen/oOMjZX)
 
+### Day 12: April 27, 2019
+
+**Today's Progress**: a dive into state management
+
+**Thoughts:** no project building today but a dive into state management with Redux
+
+**Link to work:** none
+
+### Day 13: April 28, 2019
+
+**Today's Progress**: started a new project: the markdown previewer
+
+**Thoughts:** Time to build stuff again. Started with the markdown previewer challenge on freecodecamp. Today was just about basic setup, simple styling and library research work.  
+
+**Link to work:** [Markdown previewer](https://codepen.io/tvandenbrande/pen/rbRJjo)
+
+
+
